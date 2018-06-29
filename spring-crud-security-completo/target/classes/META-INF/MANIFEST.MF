@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: crud-springboot2
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: yuri
+Implementation-Vendor-Id: com.ufc
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/crud-springboot2
+Created-By: Maven Integration for Eclipse
+
